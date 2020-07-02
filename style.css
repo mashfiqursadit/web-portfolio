@@ -53,12 +53,7 @@ section {
     background-position: left;
     
 }
-.experience{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-}
+
 .single-experience {
     box-shadow:  10px 10px 40px gray;
     border-radius: 10px;
